@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Airbnb Website Practice
+
+##Result
+![Airbnb-React-Complete](https://github.com/ZenuCode/Airbnb-Webpage/assets/100235605/3ad515df-fb11-4e73-9eb4-8f5e5c48f2e9)
+
+##Details
+- Project to test knowledge of what I learned for the past 2 days of React.
+- Replica of first page of Airbnb
+- Uses:
+  - JSX
+  - Custom Components
+  - Declarative Styling
+  - Properties
+  - Mapping
+  - Data Binding
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
