@@ -10,9 +10,8 @@
   - JSX
   - Custom Components
   - Declarative Styling
-  - Properties
-  - Mapping
-  - Data Binding
+  - Properties for Reusable Components
+  - Data Binding & Mapping
 
 In the project directory, you can run:
 
